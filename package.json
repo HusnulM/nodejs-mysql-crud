@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-01",
+  "version": "1.0.0",
+  "description": "Crud Nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Nodejs",
+    "Crud",
+    "Sederhana"
+  ],
+  "author": "ToekangKetik",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
